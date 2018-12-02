@@ -12,7 +12,8 @@ namespace MyGitTest
 
 
         {
-
+            Console.WriteLine("press enter for beeb");
+            Console.ReadLine();
             Console.Beep();
         }
     }
